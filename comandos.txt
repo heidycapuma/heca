@@ -1,0 +1,51 @@
+    1  pwd
+    2  git config --global user.name "heidycapuma"
+    3  git config --global user.email "master.estrella_erica@hotmail.es"
+    4  cd /user
+    5  cd .ssh/
+    6  pwd
+    7  mkdir.ssh
+    8  git config --global user.email "estrella_erica@hotmail.es"
+    9  cd .ssh
+   10  mkdir .ssh
+   11  sh -keygen -t rsa -c "estrella_erica@hotmail.es"
+   12  sh-keygen -t rsa -c "estrella_erica@hotmail.es"
+   13  sh-keygen -t rsa -C "estrella_erica@hotmail.es"
+   14  ssh-keygen -t rsa -C "estrella_erica@hotmail.es"
+   15  eval "$(ssh-agent -s)"
+   16  ssh-add ~/.ssh/heidy
+   17  ssh-add ~/.ssh/heidy
+   18  ssh-add ~/.ssh/heidy
+   19  ssh-add ~/.ssh/heidy
+   20  ssh-add ~/.ssh/heidy
+   21  ls
+   22  cd .ssh/
+   23  ls
+   24  ssh-keygen -t rsa -C "estrella_erica@hotmail.es"
+   25  eval "$(ssh-agent -s)"
+   26  ssh-add
+   27  ssh-add heidy
+   28  ls
+   29  ls
+   30  ls
+   31  ls
+   32  ls
+   33  pwd
+   34  ssh -T git@github.com
+   35  ssh -T git@github.com
+   36  ssh -T git@github.com
+   37  clear
+   38  ssh -T git@github.com
+   39  pwd
+   40  cd ...
+   41  cd ..
+   42  pwd
+   43  git clone  git@github.com:heidycapuma/heca.git
+   44  cd heca/
+   45  ls
+   46  touch jose
+   47  git add .
+   48  git commit -m "hola heyfi"
+   49  git push -u origin master
+   50  history
+   51  history > comandos.txt
